@@ -1,0 +1,10 @@
+/* Paleta de Colores */
+:root {
+    --primary-color: white;
+    --secondary-color: #735186;
+    --text-color: #ffffff;
+    --background-color: #f0f0f0;
+    --nav-background-color: #333333;
+    --link-color: #61dafb;
+    --hover-color: #3b234a;
+  }
